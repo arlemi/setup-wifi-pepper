@@ -1,5 +1,13 @@
 # How to setup Pepper when arriving at a new venue
 
+Pre-requisites:
+
+- a Pepper robot (duh)
+
+- Choregraphe installed on your machine
+
+- SSH client installed on your machine (ex: putty)
+
 ## Connect Pepper's head
 
 - Plug Pepper using an ethernet cable straight from its head to a laptop
@@ -52,4 +60,8 @@
 - Close the head
 - Start Pepper
 
-# ALL DONE \o/
+ALL DONE \o/
+
+## Troubleshooting 
+
+In case you are provided with a WiFi that requires to connect through a login page well... pray that the IT guys of the venue are kind enough to change that. 
