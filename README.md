@@ -5,9 +5,11 @@ Pre-requisites:
 - a Pepper robot (duh)
 - Choregraphe installed on your machine
 - SSH client installed on your machine (ex: putty)
+- the little fork-like motor securing lock
 
 ## Connect Pepper's head
 
+- Open the Pepper head from the head back inserting the fork-like motor securing (blue plastic) lock
 - Plug Pepper using an ethernet cable straight from its head to a laptop
 - Turn Pepper on
 - Press the chest button once to get Pepper's IP address
